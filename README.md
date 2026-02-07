@@ -8,22 +8,15 @@ This dashboard analyzes insurance policies, premiums, and claims to uncover tren
 
 3.**🔧 Tech Stack – Power BI Insurance Claims Dashboard**
 ******Data Source**
-
 **CSV / Excel files (Insurance policy, premium & claims data)**
-
 **Data Processing & Modeling**
-
 **Power Query (M Language) – data cleaning, transformation,**
-
 **DAX (Data Analysis Expressions) – KPI calculations, ratios,**
-
-****Analytics & KPIs**
-****
-**Claims Ratio****
-
+**Analytics & KPIs**
+**Claims Ratio**
 **Premium vs Claim Analysis**
-**
 **Average Claim & Premium**
+
 
 4.🔹 **Key Features of the Project**
 
